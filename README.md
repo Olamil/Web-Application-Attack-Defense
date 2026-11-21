@@ -29,43 +29,43 @@ See `EVIDENCE_CHECKLIST.md`. Original lab screenshots and exact configuration fi
 
 These are extracted from the original project report, not simulated results. The source page number is retained in each filename.
 
-![Lab evidence from report, page-02-figure-01.jpg](evidence/page-02-figure-01.jpg)
+![Lab evidence from report, page-02-figure-01.jpg](page-02-figure-01.jpg)
 
-![Lab evidence from report, page-02-figure-02.jpg](evidence/page-02-figure-02.jpg)
+![Lab evidence from report, page-02-figure-02.jpg](page-02-figure-02.jpg)
 
-![Lab evidence from report, page-02-figure-03.jpg](evidence/page-02-figure-03.jpg)
+![Lab evidence from report, page-02-figure-03.jpg](page-02-figure-03.jpg)
 
-![Lab evidence from report, page-03-figure-01.jpg](evidence/page-03-figure-01.jpg)
+![Lab evidence from report, page-03-figure-01.jpg](page-03-figure-01.jpg)
 
-![Lab evidence from report, page-03-figure-02.jpg](evidence/page-03-figure-02.jpg)
+![Lab evidence from report, page-03-figure-02.jpg](page-03-figure-02.jpg)
 
-![Lab evidence from report, page-03-figure-03.jpg](evidence/page-03-figure-03.jpg)
+![Lab evidence from report, page-03-figure-03.jpg](page-03-figure-03.jpg)
 
-![Lab evidence from report, page-03-figure-04.jpg](evidence/page-03-figure-04.jpg)
+![Lab evidence from report, page-03-figure-04.jpg](page-03-figure-04.jpg)
 
-![Lab evidence from report, page-03-figure-05.jpg](evidence/page-03-figure-05.jpg)
+![Lab evidence from report, page-03-figure-05.jpg](page-03-figure-05.jpg)
 
-![Lab evidence from report, page-06-figure-01.jpg](evidence/page-06-figure-01.jpg)
+![Lab evidence from report, page-06-figure-01.jpg](page-06-figure-01.jpg)
 
-![Lab evidence from report, page-06-figure-02.jpg](evidence/page-06-figure-02.jpg)
+![Lab evidence from report, page-06-figure-02.jpg](page-06-figure-02.jpg)
 
-![Lab evidence from report, page-07-figure-01.jpg](evidence/page-07-figure-01.jpg)
+![Lab evidence from report, page-07-figure-01.jpg](page-07-figure-01.jpg)
 
-![Lab evidence from report, page-07-figure-02.jpg](evidence/page-07-figure-02.jpg)
+![Lab evidence from report, page-07-figure-02.jpg](page-07-figure-02.jpg)
 
-![Lab evidence from report, page-08-figure-01.jpg](evidence/page-08-figure-01.jpg)
+![Lab evidence from report, page-08-figure-01.jpg](page-08-figure-01.jpg)
 
-![Lab evidence from report, page-08-figure-02.jpg](evidence/page-08-figure-02.jpg)
+![Lab evidence from report, page-08-figure-02.jpg](page-08-figure-02.jpg)
 
-![Lab evidence from report, page-08-figure-03.jpg](evidence/page-08-figure-03.jpg)
+![Lab evidence from report, page-08-figure-03.jpg](page-08-figure-03.jpg)
 
-![Lab evidence from report, page-08-figure-04.jpg](evidence/page-08-figure-04.jpg)
+![Lab evidence from report, page-08-figure-04.jpg](page-08-figure-04.jpg)
 
-![Lab evidence from report, page-09-figure-01.jpg](evidence/page-09-figure-01.jpg)
+![Lab evidence from report, page-09-figure-01.jpg](page-09-figure-01.jpg)
 
-![Lab evidence from report, page-09-figure-02.jpg](evidence/page-09-figure-02.jpg)
+![Lab evidence from report, page-09-figure-02.jpg](page-09-figure-02.jpg)
 
-![Lab evidence from report, page-09-figure-03.jpg](evidence/page-09-figure-03.jpg)
+![Lab evidence from report, page-09-figure-03.jpg](page-09-figure-03.jpg)
 
 
 
