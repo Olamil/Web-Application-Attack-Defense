@@ -68,4 +68,4 @@ These are extracted from the original project report, not simulated results. The
 ![Lab evidence from report, page-09-figure-03.jpg](evidence/page-09-figure-03.jpg)
 
 
-> Evidence note: Screenshots were extracted from the report. Review the images for any account identifiers or other details you would prefer not to make public before publishing.
+
