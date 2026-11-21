@@ -17,8 +17,8 @@ The results show that the tested inputs were rejected after defensive controls w
 ## What I learned
 A before-and-after test is more useful than simply saying a WAF was installed. The test result matters, and so do its limits. Application hardening also involves configuration decisions beyond a WAF.
 
-## Evidence to add
-See `EVIDENCE_CHECKLIST.md`. Original lab screenshots and exact configuration files are not included in this package because they have not been verified for safe publication.
+## Lab Evidence
+Screenshots from the original hands-on lab report are included below, documenting the attacks, security controls, and testing results. The original configuration files are not included in this repository.
 
 ## Original project report
 [Read the lab report in Google Drive](https://docs.google.com/document/d/15MkL8CJB5ZKJzVCS04rlz0oFkgM292fHqMX-OZ__Cqo/edit)
